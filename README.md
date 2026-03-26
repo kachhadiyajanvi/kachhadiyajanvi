@@ -4,14 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&lines=Full+Stack+Web+Developer;M.Sc+IT+Student;React+%7C+Node+%7C+Next.js+Developer;Always+Learning+New+Things" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile-Black%20%26%20Blue-0A192F?style=for-the-badge&logo=github&logoColor=00BFFF" />
-</p>
-
----
-
 ## 👩‍💻 About Me
 
 * 💻 Full Stack Web Developer with **1+ year experience**
