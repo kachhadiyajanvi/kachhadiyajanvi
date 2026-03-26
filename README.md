@@ -2,14 +2,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=200&section=header&text=HELLO%20WORLD&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7F00FF&center=true&vCenter=true&lines=Full+Stack+Developer;React+%7C+Node+%7C+Next.js;Always+Learning+New+Things" />
-</p>
 <!-- NAME + ROLE -->
 <h1 align="center">👋 I'm Janvi Kachhadiya</h1>
 <p align="center">
   🚀 Full Stack Developer | M.Sc IT Student | React • Node • Next.js
+    <img src="https://readme-typing-svg.herokuapp.com?color=7F00FF&center=true&vCenter=true&lines=Full+Stack+Developer;React+%7C+Node+%7C+Next.js;Always+Learning+New+Things" />
 </p>
 
 ---
